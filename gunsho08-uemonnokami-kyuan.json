@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/uemonnokami-kyuan-utaawase",
  "yomi": "うえもんのかみけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "久安5年（1149）6月28日",
+  "author": "主催 藤原家成／判者 藤原顕輔",
+  "desc": "右衛門督藤原家成が中御門の邸で催した歌合。秋月・恋などの題で、忠雅・重家・隆季・頼政・土佐らが詠み、左京大夫顕輔が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
